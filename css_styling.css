@@ -1,0 +1,20 @@
+body {background-color: darkred;
+        color: aliceblue;}
+
+p {margin-left: 50px; margin-right: 50px; padding-top: 5px; padding-bottom: 5px;}
+
+#img-jw-1 {width: fit-content;
+        height: fit-content;
+        border-radius: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 50px;}
+
+h1, h2, h3, h4, h5, h6 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter;  line-height: 80%;}
+
+a {font-size: large; color: rgb(144, 164, 255);}
+
+ol {font-style: oblique; color: rgba(209, 209, 209, 0.836);}
+
+ul {font-style: oblique; color: rgba(209, 209, 209, 0.836);}
+
+header {text-align: center;}
+
+#grid-container-1 {display: grid; grid-auto-columns: 50px;}
